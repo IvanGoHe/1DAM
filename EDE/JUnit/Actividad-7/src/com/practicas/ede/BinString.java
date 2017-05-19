@@ -7,13 +7,13 @@ public class BinString {
 	public BinString(){}
 
 	// ¿Qué hace este método?
-	//Pasa el string a binario
+	//convierte el string a binario
 	public String convertir(String s){
 		return aBinario(sumar(s));
 	}
 	
 	// ¿Qué hace este método?
-	//
+	//convierte una cadena a su valor asci
 	public int sumar(String s){
 		String s1 = s.substring(0);
 		int sum = 0;
@@ -27,6 +27,7 @@ public class BinString {
 	}
 	
 	// ¿Qué hace este método?
+	//convierte un numero a su valor binario
 	public String aBinario(int n){
 	    String s = "";
 	    
