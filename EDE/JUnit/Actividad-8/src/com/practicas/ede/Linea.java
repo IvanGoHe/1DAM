@@ -1,4 +1,4 @@
-//Iván Gómez
+//Iván Gómez Herreros
 
 package com.practicas.ede;
 
