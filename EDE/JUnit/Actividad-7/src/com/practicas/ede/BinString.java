@@ -42,4 +42,9 @@ public class BinString {
 	    
 	    return s;
 	}
+	
+	
+	//4.- testRun: ejecutar el test y comprobar si funciona
+	//Failures: Indica los fallos que se han encontrado
+	//Errors: indica los errores que se han producido al ejecutar
 }
