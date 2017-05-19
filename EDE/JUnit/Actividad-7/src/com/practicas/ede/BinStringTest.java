@@ -49,7 +49,5 @@ public class BinStringTest {
 		expected="100000100";
 		assertEquals(expected, binString.convertir("Aba"));
 		
-		
-
 	}
 }
